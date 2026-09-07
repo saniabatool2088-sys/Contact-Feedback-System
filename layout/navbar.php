@@ -8,6 +8,7 @@
         <a href="../app/contact.php">Contact</a>
         <a href="../app/feedback.php">Feedback</a>
         <a href="../app/login.php">Login</a>
+        <a href="admin_login.php" class="nav-link">Admin</a>
 
        <button
     id="themeToggle"
